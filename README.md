@@ -1,2 +1,3 @@
-# rohit12
-my first git
+# Rohit12
+My first git
+Author - Rohit Singh 
